@@ -936,7 +936,7 @@ https://github.com/vinayraj010
 
 Repository:
 
-https://github.com/vinayraj010/RustApiSpring
+https://github.com/vinayraj010/RESTApi
 
 ---
 
